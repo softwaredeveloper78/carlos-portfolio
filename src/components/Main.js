@@ -1,6 +1,5 @@
 import React from 'react';
 import About from './About';
-import Contact from './Contact';
 import HeroSection from './HeroSection';
 import Services from './Services';
 import Skills from './Skills';
@@ -18,7 +17,6 @@ const Main = ({nav, handleNav, closeNav}) => {
         <Skills />
         <Services />
         <Works />
-        <Contact />
     </div>
   )
 };

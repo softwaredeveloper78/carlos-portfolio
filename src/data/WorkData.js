@@ -37,7 +37,7 @@ export const WorkData = [
 		title: "Halo",
 		desc: "Premium landing experience showcasing immersive GSAP animations, smooth scrolling, and 3D visuals.",
 		tech: ["Next.js", "Three.js", "GSAP", "TailwindCss", "PostgreSQL"],
-		gitlink: "https://github.com/devtech-repo/Halo",
+		gitlink: "https://github.com/softwaredeveloper78/Halo",
 		site: "//halo-vp.vercel.app",
 		image: HaloImg, // Uncomment and add image import at top
 	},
@@ -45,7 +45,7 @@ export const WorkData = [
 		title: "Techi-Dashboard",
 		desc: "Jira-style task manager with drag-and-drop tasks and Context API state management.",
 		tech: ["React.js", "Dnd-Kit", "TailwindCss", "Context API", "Express", "Mongodb"],
-		gitlink: "https://github.com/devtech-repo/Techinnover",
+		gitlink: "https://github.com/softwaredeveloper78/Techinnover",
 		site: "//techinnover-vp.vercel.app",
 		image: TechiDashboardImg, // Uncomment and add image import at top
 	},
@@ -63,7 +63,7 @@ export const WorkData = [
 			"PHP",
 			"Mongodb"
 		],
-		gitlink: "https://github.com/devtech-repo/netflix-clone",
+		gitlink: "https://github.com/softwaredeveloper78/netflix-clone",
 		site: "//netflix-vp.vercel.app",
 		image: NetflixCloneImg, // Uncomment and add image import at top
 	},
@@ -71,7 +71,7 @@ export const WorkData = [
 		title: "Digitaly",
 		desc: "Digital agency site with smooth UI animations using Framer Motion.",
 		tech: ["React.js", "TailwindCss", "Framer Motion", "PHP", "MySQL"],
-		gitlink: "https://github.com/devtech-repo/Digitaly",
+		gitlink: "https://github.com/softwaredeveloper78/Digitaly",
 		site: "//digitaly.netlify.app/",
 		image: DigitalyImg, // Uncomment and add image import at top
 	},
@@ -79,7 +79,7 @@ export const WorkData = [
 		title: "Titan",
 		desc: "3D car customization app using React + Three.js for interactive modeling.",
 		tech: ["React.js", "Three.js", "TailwindCss", "Express", "Mongodb"],
-		gitlink: "https://github.com/devtech-repo/Titan",
+		gitlink: "https://github.com/softwaredeveloper78/Titan",
 		site: "//titan-motors.vercel.app/",
 		image: TitanImg, // Uncomment and add image import at top
 	},
@@ -164,7 +164,7 @@ export const WorkData = [
 		title: "Argyle",
 		desc: "Argyle North West Construction are a quality construction company with a focus on excellence and high client satisfaction.",
 		tech: ["Node.js", "Express.js", "CSS Animations", "PostgreSQL"],
-		gitlink: "https://github.com/devtech-repo/forcythe",
+		gitlink: "https://github.com/softwaredeveloper78/forcythe",
 		site: "//forcythe-pearl.vercel.app",
 		image: ArgyleImg, // Uncomment and add image import at top
 	},
