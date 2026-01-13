@@ -21,7 +21,7 @@ const About = () => {
                   </motion.div>
                   <div className="split-about">
                     <motion.div initial={{x: '-100%', opacity: 0}} whileInView={horizontal} className="about-content">
-                        <p> I'm a full-stack developer with 6 years of experience building modern, scalable web applications that make a real difference. I specialize in React, Next.js, Node.js, and TypeScript, and I enjoy transforming complex concepts into straightforward, high-performing solutions. </p>
+                        <p> I'm a full-stack developer with 7 years of experience building modern, scalable web applications that make a real difference. I specialize in React, Next.js, Node.js, and TypeScript, and I enjoy transforming complex concepts into straightforward, high-performing solutions. </p>
                         <br />
                         <p> I've worked on large-scale platforms in fintech, e-commerce, and AI-driven automation, helping teams deliver faster, more reliable, user-focused products. My work includes designing authentication systems with OAuth2, JWT, and biometrics, building GraphQL APIs, and automating CI/CD pipelines. I focus on delivering secure, efficient, and maintainable code. </p>
                         <br />
